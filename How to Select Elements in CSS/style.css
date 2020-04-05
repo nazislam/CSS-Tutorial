@@ -1,0 +1,18 @@
+/* comment in css */
+/* External CSS */
+h2 {
+    background-color: #BFBFF3;
+}
+/* p {
+    color: red;
+    text-decoration: underline;
+} */
+
+.singleStyle {
+    color: red;
+    text-decoration: underline;
+}
+
+#subHeader {
+    border: 2px solid #245703;
+}
